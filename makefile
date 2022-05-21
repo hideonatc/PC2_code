@@ -4,4 +4,4 @@ all:$(f)
 	$(COM) $(f).cpp -o $(f)
 	$(DIR)$(f)
 	rm $(f)
-	cp $(f).cpp ../../../Desktop
+	cp $(f).cpp ../../../Pictures
